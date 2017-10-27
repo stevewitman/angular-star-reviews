@@ -1,0 +1,1 @@
+https://angularfirebase.com/lessons/star-ratings-system-with-firestore/
